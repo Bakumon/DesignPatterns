@@ -1,4 +1,4 @@
-package me.bakumon.designpatterns.simplefactorypattern;
+package me.bakumon.designpatterns.simplefactorypattern.shape;
 
 /**
  * 抽象形状接口：抽象产品类

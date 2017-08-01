@@ -1,4 +1,4 @@
-package me.bakumon.designpatterns.simplefactorypattern;
+package me.bakumon.designpatterns.simplefactorypattern.factory;
 
 /**
  * 不支持的图形异常

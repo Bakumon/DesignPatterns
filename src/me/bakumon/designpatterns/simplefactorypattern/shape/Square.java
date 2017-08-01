@@ -1,4 +1,4 @@
-package me.bakumon.designpatterns.simplefactorypattern;
+package me.bakumon.designpatterns.simplefactorypattern.shape;
 
 /**
  * 正方形类：具体产品类
