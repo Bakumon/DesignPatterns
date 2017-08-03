@@ -1,8 +1,8 @@
 package me.bakumon.designpatterns.simplefactorypattern.factory;
 
-import me.bakumon.designpatterns.simplefactorypattern.shape.Round;
-import me.bakumon.designpatterns.simplefactorypattern.shape.Shape;
-import me.bakumon.designpatterns.simplefactorypattern.shape.Square;
+import me.bakumon.designpatterns.simplefactorypattern.product.Round;
+import me.bakumon.designpatterns.simplefactorypattern.product.Shape;
+import me.bakumon.designpatterns.simplefactorypattern.product.Square;
 
 /**
  * 形状工厂类：工厂类

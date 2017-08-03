@@ -2,7 +2,7 @@ package me.bakumon.designpatterns.simplefactorypattern;
 
 import me.bakumon.designpatterns.simplefactorypattern.factory.ShapeFactory;
 import me.bakumon.designpatterns.simplefactorypattern.factory.UnSupportedShapeException;
-import me.bakumon.designpatterns.simplefactorypattern.shape.Shape;
+import me.bakumon.designpatterns.simplefactorypattern.product.Shape;
 
 /**
  * 测试简单工厂模式

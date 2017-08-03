@@ -2,7 +2,7 @@ package me.bakumon.designpatterns.factorymethodpattern;
 
 import me.bakumon.designpatterns.factorymethodpattern.factory.RoundShapeFactory;
 import me.bakumon.designpatterns.factorymethodpattern.factory.SquareShapeFactory;
-import me.bakumon.designpatterns.factorymethodpattern.shape.Shape;
+import me.bakumon.designpatterns.factorymethodpattern.product.Shape;
 
 /**
  * 测试工厂方法模式

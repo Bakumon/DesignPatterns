@@ -1,6 +1,6 @@
 package me.bakumon.designpatterns.factorymethodpattern.factory;
 
-import me.bakumon.designpatterns.factorymethodpattern.shape.Shape;
+import me.bakumon.designpatterns.factorymethodpattern.product.Shape;
 
 /**
  * 图形工厂接口：抽象工厂

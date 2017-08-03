@@ -1,4 +1,4 @@
-package me.bakumon.designpatterns.factorymethodpattern.shape;
+package me.bakumon.designpatterns.factorymethodpattern.product;
 
 /**
  * 圆形类：具体产品类

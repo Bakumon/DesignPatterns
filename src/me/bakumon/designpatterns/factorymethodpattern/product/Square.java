@@ -1,8 +1,8 @@
-package me.bakumon.designpatterns.simplefactorypattern.shape;
+package me.bakumon.designpatterns.factorymethodpattern.product;
 
 /**
  * 正方形类：具体产品类
- * Created by bakumon on 17-7-31.
+ * Created by bakumon on 17-8-1.
  */
 public class Square implements Shape {
 
