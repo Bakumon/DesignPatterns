@@ -9,7 +9,11 @@ public class Singleton3 {
     private Singleton3() {
     }
 
-    synchronized public static Singleton3 getInstance() {
+    /**
+     * 解决了懒汉模式的线程安全问题
+     * 由于给方法加了锁，导致该方法低效
+     */
+    public synchronized static Singleton3 getInstance() {
         if (instance == null) {
             instance = new Singleton3();
         }
